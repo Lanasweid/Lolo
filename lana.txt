@@ -1,0 +1,5 @@
+﻿Build started at 09:01 ص...
+1>------ Build started: Project: homework4, Configuration: Debug Any CPU ------
+1>  homework4 -> C:\Users\hp\source\repos\homework4\homework4\bin\Debug\homework4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 09:01 ص and took 00.420 seconds ==========
